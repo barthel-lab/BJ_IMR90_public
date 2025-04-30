@@ -1,0 +1,150 @@
+data:
+  BJ:
+    hifi_fiber: 
+      1: /tgen_labs/barthel/fastq_DoNotTouch/r84132_20240109_223047/1_A01/BCL_0009/BCL_0009_3_FI_Whole_C1_PSB3G_L87967_SMRT2913_TATGATCACT_L001.hifi.u.bam
+    hifi_notfiber:
+      1: /tgen_labs/barthel/fastq_DoNotTouch/r84132_20240228_190122/1_D01/BCL_0009/BCL_0009_5_CL_Whole_C1_PSB3G_L91097_SMRT2984_ATCGTGATCT_L004.hifi.u.bam
+    ONT_UL:
+      1: /tgen_labs/barthel/fastq_DoNotTouch/20231211_1056_2E_PAO92568_7aebcd1a/dorado/BCL_0009/BCL_0009_2_CL_Whole_T1_OUL14_L86569_PAO92568_NNNNNNNN_L001.duplex.u.bam
+      2: /tgen_labs/barthel/fastq_DoNotTouch/20231212_1641_3D_PAQ08301_19c758a4/dorado/BCL_0009/BCL_0009_2_CL_Whole_T1_OUL14_L86569_PAQ08301_NNNNNNNN_L001.duplex.u.bam
+      3: /tgen_labs/barthel/fastq_DoNotTouch/20231213_0957_1B_PAQ08163_972d43b8/dorado/BCL_0009/BCL_0009_2_CL_Whole_T1_OUL14_L86569_PAQ08163_NNNNNNNN_L001.duplex.u.bam
+      4: /tgen_labs/barthel/fastq_DoNotTouch/20240108_1148_1D_PAU68199_cf82a8dc/dorado/BCL_0009/BCL_0009_2_CL_Whole_T1_OUL14_L86569_PAU68199_NNNNNNNN_L001.duplex.u.bam
+      5: /tgen_labs/barthel/fastq_DoNotTouch/20240109_0939_2G_PAU70623_a6150db9/dorado/BCL_0009/BCL_0009_2_CL_Whole_T1_OUL14_L86569_PAU70623_NNNNNNNN_L001.duplex.u.bam
+      6: /tgen_labs/barthel/fastq_DoNotTouch/20240307_1224_3B_PAU46810_bd086702/dorado/BCL_0009/BCL_0009_6_CL_Whole_C1_OUL14_L92763_PAU46810_NNNNNNNN_L001.duplex.u.bam
+      7: /tgen_labs/barthel/fastq_DoNotTouch/20240307_1224_3D_PAU47599_4e5d0840/dorado/BCL_0009/BCL_0009_7_CL_Whole_C1_OUL14_L92764_PAU47599_NNNNNNNN_L001.duplex.u.bam
+    hic:
+      1:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20231227_LH00295_0041_A22GM33LT3/BCL_0009/BCL_0009_4_CL_Whole_C2_UUUUU_L87617_22GM33LT3_CTACCGAA_L004_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20231227_LH00295_0041_A22GM33LT3/BCL_0009/BCL_0009_4_CL_Whole_C2_UUUUU_L87617_22GM33LT3_CTACCGAA_L004_R2_001.fastq.gz
+      2:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20241101_LH00295_0150_B22VNMHLT3/BCL_0009/BCL_0009_8_CL_Whole_C1_UUUUU_A15091_22VNMHLT3_CTACCGAA_L004_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20241101_LH00295_0150_B22VNMHLT3/BCL_0009/BCL_0009_8_CL_Whole_C1_UUUUU_A15091_22VNMHLT3_CTACCGAA_L004_R2_001.fastq.gz
+      3:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0009/BCL_0009_8_CL_Whole_C1_UUUUU_A15091_22VL27LT3_CTACCGAA_L003_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0009/BCL_0009_8_CL_Whole_C1_UUUUU_A15091_22VL27LT3_CTACCGAA_L003_R2_001.fastq.gz
+      4:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0009/BCL_0009_8_CL_Whole_C1_UUUUU_A15091_22VL27LT3_CTACCGAA_L004_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0009/BCL_0009_8_CL_Whole_C1_UUUUU_A15091_22VL27LT3_CTACCGAA_L004_R2_001.fastq.gz
+      5:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0009/BCL_0009_8_CL_Whole_C1_UUUUU_A15091_22VL27LT3_CTACCGAA_L005_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0009/BCL_0009_8_CL_Whole_C1_UUUUU_A15091_22VL27LT3_CTACCGAA_L005_R2_001.fastq.gz
+    illumina:
+      1:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/public_illumina/DRR258666_1.fastq
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/public_illumina/DRR258666_2.fastq
+    rna_short:
+      1:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/BJp14_Rep1_TTGGACTC_L001_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/BJp14_Rep1_TTGGACTC_L001_R2_001.fastq.gz
+      2:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/BJp14_Rep2_TAATACAG_L001_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/BJp14_Rep2_TAATACAG_L001_R2_001.fastq.gz
+      3:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep1_TTGGACTC_L006_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep1_TTGGACTC_L006_R2_001.fastq.gz
+      4:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep1_TTGGACTC_L007_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep1_TTGGACTC_L007_R2_001.fastq.gz
+      5:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep1_TTGGACTC_L008_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep1_TTGGACTC_L008_R2_001.fastq.gz
+      6:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep2_TAATACAG_L006_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep2_TAATACAG_L006_R2_001.fastq.gz
+      7:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep2_TAATACAG_L007_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep2_TAATACAG_L007_R2_001.fastq.gz
+      8:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep2_TAATACAG_L008_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp14_Rep2_TAATACAG_L008_R2_001.fastq.gz
+      9: 
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/BJp22_Rep1_GGCTTAAG_L001_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/BJp22_Rep1_GGCTTAAG_L001_R2_001.fastq.gz
+      10:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/BJp22_Rep2_CCAAGTCT_L001_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/BJp22_Rep2_CCAAGTCT_L001_R2_001.fastq.gz
+      11:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep1_GGCTTAAG_L006_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep1_GGCTTAAG_L006_R2_001.fastq.gz
+      12:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep1_GGCTTAAG_L007_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep1_GGCTTAAG_L007_R2_001.fastq.gz
+      13:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep1_GGCTTAAG_L008_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep1_GGCTTAAG_L008_R2_001.fastq.gz
+      14:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep2_CCAAGTCT_L006_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep2_CCAAGTCT_L006_R2_001.fastq.gz
+      15:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep2_CCAAGTCT_L007_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep2_CCAAGTCT_L007_R2_001.fastq.gz
+      16:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep2_CCAAGTCT_L008_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/BJp22_Rep2_CCAAGTCT_L008_R2_001.fastq.gz
+    chipseq:
+      1: /tgen_labs/barthel/fastq_DoNotTouch/chipseq/BJ/H3K4me3/ENCFF001ERS.fastq.gz
+      2: /tgen_labs/barthel/fastq_DoNotTouch/chipseq/BJ/H3K4me3/ENCFF001ESA.fastq.gz
+  IMR90:
+    hifi_fiber:
+      1: /tgen_labs/barthel/fastq_DoNotTouch/r84132_20240112_193124/1_A01/BCL_0010/BCL_0010_3_CL_Whole_C1_PSB3G_L88239_SMRT2912_TACGACAGTC_L001.hifi.u.bam
+      2: /tgen_labs/barthel/fastq_DoNotTouch/r84132_20240119_193555/1_D01/BCL_0010/BCL_0010_3_CL_Whole_C1_PSB3G_L88239_SMRT2923_TACGACAGTC_L004.hifi.u.bam
+    hifi_notfiber:
+      1: /tgen_labs/barthel/fastq_DoNotTouch/r84132_20240228_190122/1_C01/BCL_0010/BCL_0010_4_CL_Whole_C2_PSB3G_L91015_SMRT2984_CAGACTAGTC_L003.hifi.u.bam
+    ONT_UL:
+      1: /tgen_labs/barthel/fastq_DoNotTouch/20240129_1134_1D_PAU47694_33724a68/dorado/BCL_0010/BCL_0010_4_CL_Whole_C1_OGL14_L88333_PAU47694_NNNNNNNN_L001.duplex.u.bam
+      2: /tgen_labs/barthel/fastq_DoNotTouch/20240130_1018_1G_PAU70588_1a67cd17/dorado/BCL_0010/BCL_0010_4_CL_Whole_C1_OGL14_L88333_PAU70588_NNNNNNNN_L001.duplex.u.bam
+      3: /tgen_labs/barthel/fastq_DoNotTouch/20240131_1312_1G_PAU70513_e1b815be/dorado/BCL_0010/BCL_0010_4_CL_Whole_C1_OGL14_L88333_PAU70513_NNNNNNNN_L001.duplex.u.bam
+      4: /tgen_labs/barthel/fastq_DoNotTouch/20240201_1455_1B_PAU68268_ceb927e6/dorado/BCL_0010/BCL_0010_4_CL_Whole_C1_OGL14_L88333_PAU68268_NNNNNNNN_L001.duplex.u.bam
+      5: /tgen_labs/barthel/fastq_DoNotTouch/20240205_1148_1D_PAU57372_06387053/dorado/BCL_0010/BCL_0010_4_CL_Whole_C1_OGL14_L88333_PAU57372_NNNNNNNN_L001.duplex.u.bam
+      6: /tgen_labs/barthel/fastq_DoNotTouch/20240401_1404_1F_PAU47253_247ec07a/dorado/BCL_0010/BCL_0010_5_CL_Whole_C1_OUL14_L95474_PAU47253_NNNNNNNN_L001.duplex.u.bam
+      7: /tgen_labs/barthel/fastq_DoNotTouch/20240402_0906_1D_PAU47258_3a8595e3/dorado/BCL_0010/BCL_0010_5_CL_Whole_C1_OUL14_L95474_PAU47258_NNNNNNNN_L001.duplex.u.bam
+      8: /tgen_labs/barthel/fastq_DoNotTouch/20240405_1034_2F_PAU49277_2ae54b7c/dorado/BCL_0010/BCL_0010_5_CL_Whole_C1_OUL14_L95474_PAU49277_NNNNNNNN_L001.duplex.u.bam
+      9: /tgen_labs/barthel/fastq_DoNotTouch/20240408_1139_2C_PAU48973_a7007532/dorado/BCL_0010/BCL_0010_5_CL_Whole_C1_OUL14_L95474_PAU48973_NNNNNNNN_L001.duplex.u.bam
+    hic:
+      1:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20231227_LH00295_0041_A22GM33LT3/BCL_0010/BCL_0010_2_CL_Whole_C2_UUUUU_L87620_22GM33LT3_ATGTCAAG_L004_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20231227_LH00295_0041_A22GM33LT3/BCL_0010/BCL_0010_2_CL_Whole_C2_UUUUU_L87620_22GM33LT3_ATGTCAAG_L004_R2_001.fastq.gz
+      2:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20241101_LH00295_0150_B22VNMHLT3/BCL_0010/BCL_0010_6_CL_Whole_C1_UUUUU_A15092_22VNMHLT3_ATGTCAAG_L004_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20241101_LH00295_0150_B22VNMHLT3/BCL_0010/BCL_0010_6_CL_Whole_C1_UUUUU_A15092_22VNMHLT3_ATGTCAAG_L004_R2_001.fastq.gz
+      3:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0010/BCL_0010_6_CL_Whole_C1_UUUUU_A15092_22VL27LT3_ATGTCAAG_L003_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0010/BCL_0010_6_CL_Whole_C1_UUUUU_A15092_22VL27LT3_ATGTCAAG_L003_R2_001.fastq.gz
+      4:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0010/BCL_0010_6_CL_Whole_C1_UUUUU_A15092_22VL27LT3_ATGTCAAG_L004_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0010/BCL_0010_6_CL_Whole_C1_UUUUU_A15092_22VL27LT3_ATGTCAAG_L004_R2_001.fastq.gz
+      5:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0010/BCL_0010_6_CL_Whole_C1_UUUUU_A15092_22VL27LT3_ATGTCAAG_L005_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20241120_LH00295_0156_B22VL27LT3/BCL_0010/BCL_0010_6_CL_Whole_C1_UUUUU_A15092_22VL27LT3_ATGTCAAG_L005_R2_001.fastq.gz
+    illumina:
+      1:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/public_illumina/SRR24709136_1.fastq
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/public_illumina/SRR24709136_2.fastq
+    rna_short:
+      1:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/IMR90p8_Rep1_AATCCGGA_L001_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/IMR90p8_Rep1_AATCCGGA_L001_R2_001.fastq.gz
+      2:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/IMR90p8_Rep2_CGGCGTGA_L001_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240411_LH00295_0075_A22K7CMLT3/Floris_UrgCellPell/IMR90p8_Rep2_CGGCGTGA_L001_R2_001.fastq.gz
+      3:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep1_AATCCGGA_L006_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep1_AATCCGGA_L006_R2_001.fastq.gz
+      4:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep1_AATCCGGA_L007_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep1_AATCCGGA_L007_R2_001.fastq.gz
+      5:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep1_AATCCGGA_L008_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep1_AATCCGGA_L008_R2_001.fastq.gz
+      6:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep2_CGGCGTGA_L006_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep2_CGGCGTGA_L006_R2_001.fastq.gz
+      7:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep2_CGGCGTGA_L007_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep2_CGGCGTGA_L007_R2_001.fastq.gz
+      8:
+        R1: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep2_CGGCGTGA_L008_R1_001.fastq.gz
+        R2: /tgen_labs/barthel/fastq_DoNotTouch/20240415_LH00295_0077_B22K7K3LT3/Floris_UrgCellPell/IMR90p8_Rep2_CGGCGTGA_L008_R2_001.fastq.gz
+    chipseq:
+      1: /tgen_labs/barthel/fastq_DoNotTouch/chipseq/IMR90/H3K4me3/ENCFF591EQV.fastq.gz
+      2: /tgen_labs/barthel/fastq_DoNotTouch/chipseq/IMR90/H3K4me3/ENCFF742UXQ.fastq.gz

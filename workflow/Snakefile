@@ -1,0 +1,14 @@
+include: "rules/common.smk"
+include: "rules/data.smk"
+include: "rules/sequencing_QC.smk"
+include: "rules/assembly.smk"
+
+rule all:
+  input:
+    #Sequencing QC
+    expand("figures/sequencing_qc/genomescope/{type}/{sample}/linear_plot.png", sample=assembly_samples, type=longtypes),
+    expand("figures/sequencing_qc/NanoPlot/{type}/{sample}/{sample}.combined.{type}.NanoPlot-report.html", sample=assembly_samples, type=types),
+    expand("figures/sequencing_qc/podplot/{type}/all.combined.{type}.podplot.png", type=longtypes),
+    "figures/sequencing_qc/summary/sequencing_qc_summary_table.tsv",
+    #Precuration verkko assemblies
+    expand("{sample}/assembly/verkko/assembly.fasta", sample=assembly_samples),
